@@ -1,4 +1,4 @@
-# Actividad 2: Juego Cannon
+# Actividad 4: Juego Cannon
 
 Master Role: Santiago Ramírez Niño - A01665906.
 
