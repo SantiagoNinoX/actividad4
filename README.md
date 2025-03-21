@@ -1,8 +1,8 @@
 # Actividad 2: Juego Cannon
 
-Master Role: [Nombre del estudiante] - [Matrícula].
+Master Role: Santiago Ramírez Niño - A01665906.
 
-Fork Role: [Nombre del estudiante] - [Matrícula].
+Fork Role: Gabriel Gutiérrez Guerra - A01660505.
 
 Semana Tec "Herramientas Computacionales: El Arte de la Programación".
 
@@ -20,7 +20,7 @@ http://www.grantjenks.com/docs/freegames/cannon.html
 2. **El Master role** realizó las siguientes modificaciones:
    - Se incrementó la velocidad del proyectil.
    - Se incrementó la velocidad del movimiento de los balones.
-3. **El Fork role** realizó el pull del Mater role para tener la versión actualizada en su repositorio.
+3. **El Fork role** realizó el pull del Master role para tener la versión actualizada en su repositorio.
 4. **El Fork role** realizó las siguientes modificaciones:
    - Se modificó la lógica del juego para que nunca termine, asegurando que los balones que salgan de la ventana se re posicionen dentro del área de juego.
 5. **El Fork role** hizo un pull request con los nuevos cambios, para ser aceptado por el Mater role.
